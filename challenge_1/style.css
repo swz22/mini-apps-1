@@ -1,0 +1,33 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+#resetbtn {
+  display: flex;
+  font-size: 20px;
+  margin: auto;
+}
+
+#table {
+  margin: auto;
+  table-layout: fixed;
+  color:rgb(242, 255, 97);
+  border-style: solid;
+  border-color: rgb(83, 128, 225);
+}
+
+.square {
+  text-align: center;
+  font-size: 30px;
+  font-family: fantasy;
+}
+
+.unicorn {
+  display: flex;
+  justify-content: center;
+}
